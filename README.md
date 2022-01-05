@@ -1,2 +1,6 @@
 # COMPSCI-682 Neural-Networks
 Final Project Included - Classification for Diagnosis of Melanoma using Deep Learning
+
+**Abstract:**
+
+Melanoma is one of the deadliest types of skin cancer affecting more than a million Americans every year. It is responsible for almost 90% of the skin cancer deaths. Early detection and treatment can help prevent the spread of melanoma throughout the body thereby increasing the survival rate of the patient. To cope up with the lack of adequate clinical expertise and the increasing cases of skin cancer, deep learning can play an important role in solving such critical issues. The objective of this project is to effectively distinguish between different skin lesions and correctly classify Melanoma with high accuracy. We build three such AI models and provide a comparative study between them to analyse the best performing model out of them.
